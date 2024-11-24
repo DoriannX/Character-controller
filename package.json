@@ -1,0 +1,23 @@
+{
+  "name": "com.dodo.character-controller",
+  "version": "0.0.1",
+  "displayName": "Character Controller",
+  "description": "This is a custom character controller without any colliders or rigidbody. It's custom collision response.",
+  "unity": "6000.0",
+  "unityRelease": "23f1",
+  "dependencies": {
+    "com.dodo.game-events": "0.0.1"
+ },
+ "keywords": [
+    "character",
+    "controller",
+    "custom",
+    "custom chracter controller",
+    "custom collision response",
+    "no rigidbody"
+  ],
+  "author": {
+    "name": "Dodo",
+    "email": "theodor.xav@gmail.com"
+  }
+}
