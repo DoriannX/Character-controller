@@ -1,5 +1,5 @@
 using System;
-using Debugger;
+using CharacterDebugger;
 using SerializedProperties;
 using UnityEngine;
 

@@ -3,7 +3,7 @@ using SerializedProperties;
 using UnityEngine;
 using UnityEngine.Pool;
 
-namespace Debugger
+namespace CharacterDebugger
 {
     public class DirectionDebugger : MonoBehaviour
     {

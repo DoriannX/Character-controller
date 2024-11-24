@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Debugger
+namespace CharacterDebugger
 {
     public static class DebugShapeCasts
     {
